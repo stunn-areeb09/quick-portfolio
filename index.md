@@ -132,6 +132,7 @@
 
 
 
+
 ## [COVID-19 (DISEASE) SPREAD ANALYSIS](https://github.com/stunn-areeb09/COVID-Analysis-)
 
 
@@ -140,6 +141,7 @@
 
 
 #### *Python ,Machine Learning*
+
 
 
 ## [Generating Hand Written Digits Trained via MNIST Dataset](https://github.com/stunn-areeb09/Genrating-Handwritten-Digits-using-GAN)
@@ -151,6 +153,7 @@
 
 
 #### *Python ,Deep Learning*
+
 
 
 
@@ -173,7 +176,6 @@
 
 
 
-
 # Certificates and Awards 
 
 
@@ -185,7 +187,6 @@
 #### [Hack AMU 2k19](https://drive.google.com/file/d/1KlzLm38Air-EH84B3DDyB4i6INOT5E0j/view)
 
 #### [Data Analytics and Machine Learning Under TEQIP - 3](https://drive.google.com/file/d/1puMhs3YAGlRcKlSDv5avqp--ipAoIEWy/view)
-
 
 
 
@@ -212,6 +213,7 @@
 - Computer Networks 
 
 ```
+
 
 
 
