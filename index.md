@@ -1,9 +1,16 @@
-## A Computer Science Geek  
+# A Computer Science Geek  
+
+
+
 
 *I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with the zeal to exel and learn and imporve everyday I go by the username stunn_areeb09 on most Competitive sites.Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :) .I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry .Looking to work in a Good and Healthy environment on challenging projects. I am always open to discuss new opportunities ,I also like meeting new people and exchange ideas and thougths with them :)*
 
 
-### Languages with expertise
+
+
+# Languages with expertise
+
+
 
 ```markdown
 - C++                          ( 4.5 / 5 )  ( Personel Favourite ( First one is always special !! ) )
@@ -15,9 +22,14 @@
 ```
 
 
-### Frameworks and Libraries Known
+
+
+# Frameworks and Libraries Known
+  
+  
   
 ```markdown
+
 - Django                       
 - Django Rest Framework
 - React.js
@@ -33,11 +45,18 @@
 - Wordnet
 - SentiwordNet
 - Time series Analysis
+
 ```  
 
-### Work Experience 
 
-#### [Software Development Intern](https://drive.google.com/file/d/1TBgu-qK8wi3beUehUxfCkMHbZb1fenp8/view?usp=sharing) at Optum (UnitedHealth Group) 
+
+
+# Work Experience 
+
+
+
+## [Software Development Intern](https://drive.google.com/file/d/1TBgu-qK8wi3beUehUxfCkMHbZb1fenp8/view?usp=sharing) at Optum (UnitedHealth Group) 
+
 
 ```markdown
 
@@ -45,25 +64,31 @@
 - Developed a [Blog application](https://github.com/stunn-areeb09/Blog-Hosting-Application) where users can post ,update ,delete and view blogs written by different users into 3 different categories of Business ,Entertainment and Sports as a part of the Internship.
 
 ```
-*Python ,Django ,React.js ,Javascript ,HTML5 ,CSS3 ,Bootstrap3 ,Django Rest Framework* 
+### *Python ,Django ,React.js ,Javascript ,HTML5 ,CSS3 ,Bootstrap3 ,Django Rest Framework* 
   
 
-#### [Machine Learning Intern](https://drive.google.com/file/d/1WghsM8THCJ8cmciibkTvlSnKesPzhKc_/view) at Terra.AI 
+
+## [Machine Learning Intern](https://drive.google.com/file/d/1WghsM8THCJ8cmciibkTvlSnKesPzhKc_/view) at Terra.AI 
+
 
 ```markdown
+
 - Remote internship
 - Worked on prediction of [Customer Lifetime Value](https://drive.google.com/file/d/1wFMeBe_KI36TWixncD4CeKZZHUlgt6hG/view?usp=sharing) from various qualitative and quantitative features provided in a dataset. 
 - Worked on [Vehicle Speed Estimation](https://drive.google.com/file/d/1IfY9ML5Kik525P8_327sZU1d7R7ropVj/view?usp=sharing) using Open-CV ,Kalman Filter and Hungarian Algorithm.
 
 ```
-*Python ,Machine Learning*
+### *Python ,Machine Learning*
 
 
 
-### Projects
+
+# Projects
 
 
-#### [Product Review Analysis](https://github.com/stunn-areeb09/Product-Review-Analysis)
+
+## [Product Review Analysis](https://github.com/stunn-areeb09/Product-Review-Analysis)
+
 
 ```markdown
 
@@ -74,10 +99,12 @@
 - In Deep Learning Approach used CNN Bidirectional LSTM with the sequence model as -  Conv1D -> Conv1D -> Conv1D -> MaxPooling1D -> BidirectionalLSTM -> Dense -> Dropout -> Dense -> Dropout -> Dense -> Dropout -> Output.
 
 ```
-*Python ,Machine Learning ,Deep Learning*
+### *Python ,Machine Learning ,Deep Learning*
+
 
 
 #### [COVID-19 (DISEASE) SPREAD ANALYSIS](https://github.com/stunn-areeb09/COVID-Analysis-)
+
 
 ```markdown
 
@@ -89,6 +116,7 @@
 
 #### [Generating Hand Written Digits Trained via MNIST Dataset](https://github.com/stunn-areeb09/Genrating-Handwritten-Digits-using-GAN)
 
+
 ```markdown
 
 - Implemented a GAN for Generating Handwritten Digits trained via MNIST dataset.
@@ -98,7 +126,10 @@
 
 
 
+
 #### Education
+
+
 
 ```markdown
 
@@ -110,6 +141,7 @@
   94%
 
 ```
+
 
 
 
@@ -126,6 +158,7 @@
 [Data Analytics and Machine Learning Under TEQIP - 3](https://drive.google.com/file/d/1puMhs3YAGlRcKlSDv5avqp--ipAoIEWy/view)
 
 ```
+
 
 
 
@@ -146,6 +179,7 @@
 
 
 
+
 # Contact
 
 ```markdown
@@ -153,6 +187,5 @@
 - [Linkedin](https://www.linkedin.com/in/syed-areeb-wadood-629738161/)
 - [Github](https://github.com/stunn-areeb09)
 - [Email](areeb.wadood9@gmail.com)   
-
 
 ```
