@@ -1,6 +1,6 @@
 ## A Computer Science Geek  
 
-I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with the zeal to exel and learn and imporve everyday I go by the username stunn_areeb09 on most Competitve sites.Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :) .I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry .Looking to work in a Good and Healthy environment on challenging projects. I also like meeting new people and exchange ideas and thougths with them :)
+*I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with the zeal to exel and learn and imporve everyday I go by the username stunn_areeb09 on most Competitive sites.Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :) .I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry .Looking to work in a Good and Healthy environment on challenging projects. I am always open to discuss new opportunities ,I also like meeting new people and exchange ideas and thougths with them :)*
 
 
 ### Languages with expertise
@@ -11,10 +11,9 @@ I am a final year Computer Science Undergrad from Zakir Hussain College of Engin
 - Javascript                   ( 3   / 5 )
 - C                            ( 4   / 5 )
 - HTML                         ( 4   / 5 )
-- CSS                          ( 4   / 5 )
+- CSS                          ( 2   / 5 )
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Frameworks and Libraries Known
   
@@ -22,6 +21,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Django                       
 - Django Rest Framework
 - React.js
+- Bootstrap
 - Scikit - Learn
 - Tenserflow 
 - Keras
@@ -32,35 +32,127 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - NLTK
 - Wordnet
 - SentiwordNet
+- Time series Analysis
 ```  
 
-### Experience 
+### Work Experience 
 
-#### Software Development Intern at Optum (UnitedHealth group)
+#### [Software Development Intern](https://drive.google.com/file/d/1TBgu-qK8wi3beUehUxfCkMHbZb1fenp8/view?usp=sharing) at Optum (UnitedHealth Group) 
+
 ```markdown
 
 - The internship was remotely held. 
-- Developed a Blog application where users can post ,update ,delete and view blogs written by different users into 3 different categories of Business ,Entertainment and Sports as a part of the Internship.
-
-
-#### Python ,Django ,HTML ,CSS ,Django Rest Framework 
-```  
-
-### Machine Learning Intern at Terra.AI
-```markdown
-
-- Worked on prediction of _Customer Lifetime Value_ from various _qualitative_ and _quantitative_ features provided in a dataset. 
-- Worked on _Vehicle Speed Estimation_ using _Open-CV_ ,_Kalman Filter_ and _Hungarian Algorithm_.
-
-
-#### Python ,Machine Learning 
-```
-```markdown
+- Developed a [Blog application](https://github.com/stunn-areeb09/Blog-Hosting-Application) where users can post ,update ,delete and view blogs written by different users into 3 different categories of Business ,Entertainment and Sports as a part of the Internship.
 
 ```
+*Python ,Django ,React.js ,Javascript ,HTML5 ,CSS3 ,Bootstrap3 ,Django Rest Framework* 
+  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stunn-areeb09/quick-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Machine Learning Intern](https://drive.google.com/file/d/1WghsM8THCJ8cmciibkTvlSnKesPzhKc_/view) at Terra.AI 
 
-### Support or Contact
+```markdown
+- Remote internship
+- Worked on prediction of [Customer Lifetime Value](https://drive.google.com/file/d/1wFMeBe_KI36TWixncD4CeKZZHUlgt6hG/view?usp=sharing) from various qualitative and quantitative features provided in a dataset. 
+- Worked on [Vehicle Speed Estimation](https://drive.google.com/file/d/1IfY9ML5Kik525P8_327sZU1d7R7ropVj/view?usp=sharing) using Open-CV ,Kalman Filter and Hungarian Algorithm.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+*Python ,Machine Learning*
+
+
+
+### Projects
+
+
+#### [Product Review Analysis](https://github.com/stunn-areeb09/Product-Review-Analysis)
+
+```markdown
+
+- Achieved an accuracy of more than 90%.
+- Implemented Product Review Analysis (Sentiment Analysis) of Reviews from the E-commerce websites ,classifying a Review as Positive ,Negative or Neutral.
+- Implemented Lexicon (Rule) based Analysis treating every positive and negative sentiment with their respective scores and adding them to obtain the overall sentiment of a   sentence. 
+- Converted the tokens carrying vectors thereby giving them some valid values using Count vectoriser and applied various Machine Learning algorithms like Linear SVC(SVM) ,       Random Forests and Logistic regression. 
+- In Deep Learning Approach used CNN Bidirectional LSTM with the sequence model as -  Conv1D -> Conv1D -> Conv1D -> MaxPooling1D -> BidirectionalLSTM -> Dense -> Dropout -> Dense -> Dropout -> Dense -> Dropout -> Output.
+
+```
+*Python ,Machine Learning ,Deep Learning*
+
+
+#### [COVID-19 (DISEASE) SPREAD ANALYSIS](https://github.com/stunn-areeb09/COVID-Analysis-)
+
+```markdown
+
+- Did a Predictive and Visual Analysis of the spread of the disease using various Time Series Algorithms as a part of an Online Hackathon at [Codechef](https://drive.google.com/file/d/1i8AT-qgz944N89YP4WymZT62tqhEq-6K/view) in April 2020.
+
+```
+*Python ,Machine Learning*
+
+
+#### [Generating Hand Written Digits Trained via MNIST Dataset](https://github.com/stunn-areeb09/Genrating-Handwritten-Digits-using-GAN)
+
+```markdown
+
+- Implemented a GAN for Generating Handwritten Digits trained via MNIST dataset.
+
+```
+*Python ,Deep Learning*
+
+
+
+#### Education
+
+```markdown
+
+- Zakir Hussain College of Engineering and Technology (Aligarh Mulsim University), Aligarh — B.tech (Computer Engineering)
+  2017 - 2021 
+  CPI - 9.401
+- New Horizon School, New Delhi — 12th
+  2017 
+  94%
+
+```
+
+
+
+#### Certificates and Awards 
+
+```markdown
+
+[Snackdown 2k19](https://www.codechef.com/certificates/public/c31c38e)
+
+[Overall Performance at Google Kickstart 2020](https://drive.google.com/file/d/1m3N5_ESLKI1H5mNkwPipyDFxKCo08C--/view)
+
+[Hack AMU 2k19](https://drive.google.com/file/d/1KlzLm38Air-EH84B3DDyB4i6INOT5E0j/view)
+
+[Data Analytics and Machine Learning Under TEQIP - 3](https://drive.google.com/file/d/1puMhs3YAGlRcKlSDv5avqp--ipAoIEWy/view)
+
+```
+
+
+
+#### CourseWork 
+
+```markdown
+
+- Software Development 
+- Data Structures and Algorithms 
+- Object Oriented Programming    
+- Analysis of Algorithms
+- Software Engineering    
+- Operating Systems    
+- Database Management Systems   
+- Computer Networks 
+
+```
+
+
+
+# Contact
+
+```markdown
+
+- [Linkedin](https://www.linkedin.com/in/syed-areeb-wadood-629738161/)
+- [Github](https://github.com/stunn-areeb09)
+- [Email](areeb.wadood9@gmail.com)   
+
+
+```
