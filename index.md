@@ -37,10 +37,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Experience 
 
 ```markdown
-_Software Development Intern at Optum (UnitedHealth group)_
+*Software Development Intern at Optum (UnitedHealth group)*
 
 - The internship was remotely held. 
-- Developed a _Blog application_ where users can _post_ ,_update_ ,_delete_ and _view_ blogs written by different users into 3 different categories of _Business_ ,_Entertainment_ and _Sports_ as a part of the Internship.
+- Developed a *Blog application* where users can *post* ,*update* ,*delete* and *view* blogs written by different users into 3 different categories of *Business* ,*Entertainment* and *Sports* as a part of the Internship.
 
 
 _Python_ ,_Django_ ,_HTML_ ,_CSS_ ,_Django Rest Framework_ 
