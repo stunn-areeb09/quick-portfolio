@@ -1,29 +1,15 @@
 ## A Computer Science Geek  
 
-I am a final yr computer science undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. My interests and areas of expertise include Django ,Django Rest Framework ,Javascript ,,
+I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with the zeal to exel and learn and imporve everyday I go by the username stunn_areeb09 on most Competitve sites.Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :) .I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry .Looking to work in a Good and Healthy environment on challenging projects. I also like meeting new people and exchange ideas and thougths with them :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages with expertise
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- C++   *****  ( Personel Favourite ( First one is always special ) )
+- Python ****
+- Javascript ***
+- C ****
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
