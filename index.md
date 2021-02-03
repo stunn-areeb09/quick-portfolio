@@ -6,15 +6,58 @@ I am a final year Computer Science Undergrad from Zakir Hussain College of Engin
 ### Languages with expertise
 
 ```markdown
-- C++   *****  ( Personel Favourite ( First one is always special ) )
-- Python ****
-- Javascript ***
-- C ****
+- C++                          ( 4.5 / 5 )  ( Personel Favourite ( First one is always special !! ) )
+- Python                       ( 4   / 5 )
+- Javascript                   ( 3   / 5 )
+- C                            ( 4   / 5 )
+- HTML                         ( 4   / 5 )
+- CSS                          ( 4   / 5 )
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Frameworks and Libraries Known
+  
+```markdown
+- Django                       
+- Django Rest Framework
+- React.js
+- Scikit - Learn
+- Tenserflow 
+- Keras
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- NLTK
+- Wordnet
+- SentiwordNet
+```  
+
+### Experience 
+
+```markdown
+_Software Development Intern at Optum (UnitedHealth group)_
+
+- The internship was remotely held. 
+- Developed a _Blog application_ where users can _post_ ,_update_ ,_delete_ and _view_ blogs written by different users into 3 different categories of _Business_ ,_Entertainment_ and _Sports_ as a part of the Internship.
+
+
+_Python_ ,_Django_ ,_HTML_ ,_CSS_ ,_Django Rest Framework_ 
+```  
+
+```markdown
+_Machine Learning Intern at Terra.AI_
+
+- Worked on prediction of _Customer Lifetime Value_ from various _qualitative_ and _quantitative_ features provided in a dataset. 
+- Worked on _Vehicle Speed Estimation_ using _Open-CV_ ,_Kalman Filter_ and _Hungarian Algorithm_.
+
+
+_Python_ ,_Machine Learning_ 
+```
+```markdown
+
+```
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stunn-areeb09/quick-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
