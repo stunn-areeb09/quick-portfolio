@@ -37,7 +37,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Experience 
 
 ```markdown
-*Software Development Intern at Optum (UnitedHealth group)*
+*Software* Development Intern at Optum (UnitedHealth group)
 
 - The internship was remotely held. 
 - Developed a *Blog application* where users can *post* ,*update* ,*delete* and *view* blogs written by different users into 3 different categories of *Business* ,*Entertainment* and *Sports* as a part of the Internship.
