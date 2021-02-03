@@ -37,23 +37,23 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Experience 
 
 ```markdown
-*Software* Development Intern at Optum (UnitedHealth group)
+#### Software Development Intern at Optum (UnitedHealth group)
 
 - The internship was remotely held. 
-- Developed a *Blog application* where users can *post* ,*update* ,*delete* and *view* blogs written by different users into 3 different categories of *Business* ,*Entertainment* and *Sports* as a part of the Internship.
+- Developed a Blog application where users can post ,update ,delete and view blogs written by different users into 3 different categories of Business ,Entertainment and Sports as a part of the Internship.
 
 
-_Python_ ,_Django_ ,_HTML_ ,_CSS_ ,_Django Rest Framework_ 
+#### Python ,Django ,HTML ,CSS ,Django Rest Framework 
 ```  
 
 ```markdown
-_Machine Learning Intern at Terra.AI_
+### Machine Learning Intern at Terra.AI
 
 - Worked on prediction of _Customer Lifetime Value_ from various _qualitative_ and _quantitative_ features provided in a dataset. 
 - Worked on _Vehicle Speed Estimation_ using _Open-CV_ ,_Kalman Filter_ and _Hungarian Algorithm_.
 
 
-_Python_ ,_Machine Learning_ 
+#### Python ,Machine Learning 
 ```
 ```markdown
 
