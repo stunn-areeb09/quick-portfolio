@@ -36,8 +36,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Experience 
 
-```markdown
 #### Software Development Intern at Optum (UnitedHealth group)
+```markdown
 
 - The internship was remotely held. 
 - Developed a Blog application where users can post ,update ,delete and view blogs written by different users into 3 different categories of Business ,Entertainment and Sports as a part of the Internship.
@@ -46,8 +46,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 #### Python ,Django ,HTML ,CSS ,Django Rest Framework 
 ```  
 
-```markdown
 ### Machine Learning Intern at Terra.AI
+```markdown
 
 - Worked on prediction of _Customer Lifetime Value_ from various _qualitative_ and _quantitative_ features provided in a dataset. 
 - Worked on _Vehicle Speed Estimation_ using _Open-CV_ ,_Kalman Filter_ and _Hungarian Algorithm_.
