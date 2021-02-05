@@ -3,7 +3,7 @@
 
 
 
-### I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with 4 stars on Codechef and Specislist on Codeforces the zeal to excel and learn and imporve everyday. I go by the username stunn_areeb09 on most Competitive sites. Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :). I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry. Looking to work in a Good and Healthy environment on challenging projects. I am always open to discuss new opportunities ,I also like meeting new people and exchange ideas and thougths with them :)
+### I am a final year Computer Science Undergrad from Zakir Hussain College of Engineering and Technology ,Aligarh Muslim University. I like Solving Puzzles and Brain Teasers in my free time. An avid Competitve Programmer with 4 stars on Codechef and Specialist on Codeforces the zeal to excel and learn and imporve everyday. I go by the username stunn_areeb09 on most Competitive sites. Apart from that ,I like Building Scalable and Efficient Solutions utilizing my existing learned knowledge :). I am a self motivated individual and team player with passionately curious attitude to learn and grow in the Software Industry. Looking to work in a Good and Healthy environment on challenging projects. I am always open to discuss new opportunities ,I also like meeting new people and exchange ideas and thougths with them :)
 
 
 
